@@ -7,7 +7,7 @@ const Mensaje  = () =>{
 }
 
 const Saludo =() =>{
-  return <h2>ESTE ES MI PRIMER PROYECTO</h2>
+  return <h2>ESTE ES MI PRIMER EJERCICIO CON REACT</h2>
 }
 
 function App() {
